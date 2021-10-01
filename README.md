@@ -9,6 +9,10 @@ A simple web application for movie fanatic
 - add movies to your favorite list
 - manage your favorite list
 
+## Preview
+
+![](ravenera0317.github.io_movie-list_.png)
+
 ### Searching
 
 type the title of the movies in search bar

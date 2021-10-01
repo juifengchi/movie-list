@@ -4,7 +4,7 @@ const POSTER_URL = BASE_URL + "/posters/"
 const MOVIES_PER_PAGE = 12
 
 const movies = []
-let filteredMovies =[]
+let filteredMovies = []
 
 const dataPanel = document.querySelector("#data-panel")
 const searchForm = document.querySelector("#search-form")
